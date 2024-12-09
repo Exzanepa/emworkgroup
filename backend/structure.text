@@ -1,0 +1,11 @@
+hotel-registration/
+├── config/
+│   └── db.js
+├── controllers/
+│   └── registrationController.js
+├── models/
+│   └── registration.js
+├── routes/
+│   └── registrationRoutes.js
+├── app.js
+└── server.js
